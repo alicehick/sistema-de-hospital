@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <style>
+      h1 {
+        text-align: center;
+      }
+
+      table,
+      th,
+      td {
+        margin: auto;
+        border: 1px solid black;
+      }
+
+    </style>
+  </head>
+
+  <body>
+    <h1>Listagem de pacientes.</h1>
+    <table>
+      <tr>
+        <th>Foto</th>
+        <th>Nome</th>
+        <th>cadastro</th>
+        <th>Data de Nasc</th>
+      </tr>
+
+      <tr></tr>
+      <tr>
+        <td><img width="60px" src="https://cdn-icons-png.flaticon.com/512/74/74472.png" /></td>
+        <td>Luana</td>
+        <td>052</td>
+        <td>05/09/1975</td>
+       
+
+      </tr>
+      <tr>
+        <td><img width="60px" src="https://cdn-icons-png.flaticon.com/512/74/74472.png" /></td>
+        <td>Niara</td>
+        <td>789</td>
+        <td>15/01/19969</td>
+        
+      </tr>
+      <tr>
+        <td><img width="60px" src="https://cdn-icons-png.flaticon.com/512/74/74472.png" /></td>
+        <td>Pedro</td>
+        <td>5639</td>
+        <td>20/12/1998</td>
+       
+
+      </tr>
+      <tr>
+        <td><img width="60px" src="https://cdn-icons-png.flaticon.com/512/74/74472.png" /></td>
+        <td>Carol</td>
+        <td>2896</td>
+        <td>23/01/2007</td>
+        
+
+
+    </table>
+  </body>
+
+</html>
